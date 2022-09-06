@@ -1,0 +1,20 @@
+h1 {
+    color: white;
+    font-size: 1.7rem;
+    font-family: Verdana;
+}
+
+body {
+    background-color: skyblue;
+}
+
+p {
+    color: white;
+    font-size: 1.2rem;
+    font-family: Verdana;
+}
+
+img {
+    width: 350px;
+    height: 500px;
+}
